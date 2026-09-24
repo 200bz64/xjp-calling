@@ -4,7 +4,7 @@ $\color{#333333}{{\text{2023年01月18日 21:40}}}$
 
 <p style="text-align: center;" class="photo_img_20190808">
     <a href="https://news.cctv.com/2023/01/18/ARTIgUCPgzHHzP8FcnPQnxg5230118.shtml" target="_blank">
-        <img src="./2023011821394954931.png" alt="" width="1000">
+        <img src="https://p1.img.cctvpic.com/photoworkspace/contentimg/2023/01/18/2023011821394954931.png" alt="" width="1000">
     </a>
 </p>
 
@@ -22,7 +22,7 @@ $\color{#333333}{{\text{2023年01月18日 21:40}}}$
 
 <div align="center" style>
     <a href="https://news.cctv.com/2023/01/18/ARTIgUCPgzHHzP8FcnPQnxg5230118.shtml">
-	<img src="./1616750563130_326.png", width="352">
+	<img src="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/3/26/1616750563130_326.png", width="352">
     </a>
     <p style="text-align:center;letter-spacing: 0;color:#888888;font-size:15px;line-height:1.47em;margin:10px auto 0;">扫二维码 访问央视网</p>
 </div>
