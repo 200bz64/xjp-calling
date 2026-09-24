@@ -19,4 +19,8 @@ $\color{#333333}{{\text{2023年01月18日 21:40}}}$
 <p style="text-indent: 2em;">录音丨程爱华</p>
 <p style="text-indent: 2em;">交互丨贾易铭 景佳纯</p>
 <p style="text-indent: 2em;">视觉丨官真</p>	
-			
+
+<div align="center">
+	<img src="./1616750563130_326.png">
+	<p style="text-align:center;letter-spacing: 0;color:#888888;font-size:15px;line-height:1.47em;margin:10px auto 0;">扫二维码 访问央视网</p>
+</div>
