@@ -1,5 +1,5 @@
 ### 习近平邀请你视频通话
-$\color{#576B95}{\scriptsize{\text{中央广播电视总台央视新闻}}}$ $\color{#333333}{\scriptsize{\text{2023年01月18日 21:40}}}$
+$\color{#576B95}{{\text{中央广播电视总台央视新闻}}}$ $\color{#333333}{{\text{2023年01月18日 21:40}}}$
 
 <p style="text-align: center;" class="photo_img_20190808">
     <a href="https://news.cctv.com/2023/01/18/ARTIgUCPgzHHzP8FcnPQnxg5230118.shtml" target="_blank">
